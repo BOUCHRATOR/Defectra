@@ -1,0 +1,48 @@
+# Python
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Node / React Native
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Django
+__pycache__/
+*.sqlite3
+media/
+staticfiles/
+
+# Datasets
+Merged_dataset/
+dataset/
+datasets/
+
+# Machine Learning models
+*.pt
+*.pth
+*.onnx
+
+# Training outputs
+runs/
+best/
+wandb/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

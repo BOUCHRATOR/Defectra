@@ -1,0 +1,38 @@
+[
+  {
+    "vehicle_id": 1,
+    "plate": "123456-A-5",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "inspection_date": "2026-08-02",
+    "defects": [
+      {
+        "type": "Scratch",
+        "confidence": 0.96,
+        "severity": "Medium"
+      },
+      {
+        "type": "Dent",
+        "confidence": 0.91,
+        "severity": "High"
+      }
+    ]
+  },
+
+  {
+    "vehicle_id": 2,
+    "plate": "789654-B-7",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "inspection_date": "2026-08-02",
+    "defects": [
+      {
+        "type": "Crack",
+        "confidence": 0.94,
+        "severity": "High"
+      }
+    ]
+  }
+]
