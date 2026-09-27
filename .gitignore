@@ -46,3 +46,10 @@ wandb/
 # OS
 .DS_Store
 Thumbs.db
+
+# Images
+*.jpeg
+*.jpg
+*.png
+*.gif
+*.webp
